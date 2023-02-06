@@ -1,7 +1,7 @@
 <div>
   <h1>👨🏻‍💻 Giuliano Leite</h1>
   <div>
-      <img src="gato.gif" height="50em">
+      ![Gato](https://github.com/Giulianobrjf/Giulianobrjf/blob/main/gato.gif)
   </div>
   
   
