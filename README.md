@@ -2,8 +2,7 @@
 
   <h2>👨🏻‍💻 Giuliano Leite</h2>
   <h4>👾 Estudante de Sistemas de informação.</h4>
-  <h4>📷 Edito vídeos por hobby.</h4>
-  <h4>🧙 Amante de jogos.</h4>
+  <h4>🧙 Estagiário em Programação</h4>
   <h4>🧠 A criatividade é a base de tudo!</h4>
   <div>
     <img src="https://media.giphy.com/media/WMfho5VxnIaOc/giphy.gif" widht="250em" height="200em">  
